@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdgjs1000)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdgjs1000)](https://github.com/ehdgjs1000/github-readme-stats)
