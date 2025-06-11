@@ -28,3 +28,6 @@
 <div>
    <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehdgjs1000&hide=&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ehdgjs1000&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+
+
