@@ -2,6 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7B7A00&background=A36FFF48&vCenter=true&lines=Unity+Game+Developer)](https://git.io/typing-svg)
 
 
+안녕하세요. Unity로 모바일 및 PC게임 개발을 하고 있는 김동헌입니다.
+
+
 <br>
 
 <h3 align="center">🛠 SKILLs 🛠</h3>
