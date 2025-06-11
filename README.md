@@ -4,7 +4,9 @@
 
 <br>
  ## STACKs
- <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" />
-
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20play-%23414141.svg?&style=for-the-badge&logo=google%20play&logoColor=white" />
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
 
 
