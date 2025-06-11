@@ -3,17 +3,15 @@
 
 <br>
 
-<h3 align="center">🛠 STACKs 🛠</h3>
+<h3 align="center">🛠 SKILLs 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/google%20play-%23414141.svg?&style=for-the-badge&logo=google%20play&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="	https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/google%20play-%23414141.svg?&style=for-the-badge&logo=google%20play&logoColor=white" />&nbsp
 </div>
 
 <br>
