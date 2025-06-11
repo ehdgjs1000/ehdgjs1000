@@ -4,8 +4,8 @@
 
 <br>
 ## STACKs
-	<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /></a>
- <img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" /></a>
+	<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+ <img src="https://img.shields.io/badge/google%20ads-%234285F4.svg?&style=for-the-badge&logo=google%20ads&logoColor=white" />
 
 
 <div align='center'>
