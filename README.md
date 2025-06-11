@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp
+  	<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
